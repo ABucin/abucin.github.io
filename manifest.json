@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "COVID-19 Dashboard App",
+  "name": "COVID-19 data tracking dashboard",
   "icons": [
     {
       "src": "favicon.ico",
